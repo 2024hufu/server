@@ -1,0 +1,10 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2024-10-21 21:31:49.507	[34minfo[0m	/Users/archer/project/gin-vue-admin/server/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2024-10-21 21:31:49.507	[34minfo[0m	/Users/archer/project/gin-vue-admin/server/initialize/plugin.go:10	项目暂未初始化，无法安装插件，初始化后重启项目即可完成插件安装
+[github.com/flipped-aurora/gin-vue-admin/server]2024-10-21 21:31:49.507	[34minfo[0m	/Users/archer/project/gin-vue-admin/server/initialize/router.go:108	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2024-10-21 21:31:49.507	[34minfo[0m	/Users/archer/project/gin-vue-admin/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2024-10-21 21:32:12.986	[34minfo[0m	/Users/archer/project/gin-vue-admin/server/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2024-10-21 21:32:12.987	[34minfo[0m	/Users/archer/project/gin-vue-admin/server/initialize/plugin.go:10	项目暂未初始化，无法安装插件，初始化后重启项目即可完成插件安装
+[github.com/flipped-aurora/gin-vue-admin/server]2024-10-21 21:32:12.987	[34minfo[0m	/Users/archer/project/gin-vue-admin/server/initialize/router.go:108	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2024-10-21 21:32:12.987	[34minfo[0m	/Users/archer/project/gin-vue-admin/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2024-10-21 21:32:59.950	[34minfo[0m	/Users/archer/project/gin-vue-admin/server/api/v1/system/sys_initdb.go:62	前往初始化数据库
+[github.com/flipped-aurora/gin-vue-admin/server]2024-10-21 21:33:41.517	[34minfo[0m	/Users/archer/project/gin-vue-admin/server/api/v1/system/sys_initdb.go:62	前往初始化数据库
