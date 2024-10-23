@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d87d3480-0ed9-4478-8ee0-f65dd082e252" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/api/v1/enter.go" beforeDir="false" afterPath="$PROJECT_DIR$/api/v1/enter.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/initialize/gorm_biz.go" beforeDir="false" afterPath="$PROJECT_DIR$/initialize/gorm_biz.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/initialize/router_biz.go" beforeDir="false" afterPath="$PROJECT_DIR$/initialize/router_biz.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/router/enter.go" beforeDir="false" afterPath="$PROJECT_DIR$/router/enter.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/enter.go" beforeDir="false" afterPath="$PROJECT_DIR$/service/enter.go" afterDir="false" />
-    </list>
+    <list default="true" id="d87d3480-0ed9-4478-8ee0-f65dd082e252" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
